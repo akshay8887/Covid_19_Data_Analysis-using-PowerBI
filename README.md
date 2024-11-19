@@ -1,1 +1,3 @@
-Analyzing Covid 19 impacts on countries and continents using total cases,total deaths and new cases occured during a particular date range
+- This Project is about studying the impact of Covid 19 across continents and countries.
+- This dataset gets updated daily, so the results will differ depending on when we download the dataset.
+- Based on the different characteristics and Information, I have created a Power BI report that would answer the impact of Covid 19.
